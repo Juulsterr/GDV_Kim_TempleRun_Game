@@ -1,6 +1,6 @@
 # Temple Run Game
 ![alt text](TempleRunLogo.jpg)
-## Mijn mechanic:
+## Mijn game:
 -Wat hoort en ziet de speler: De speler ziet een lange brug die honderden meters hoog is en ziet de geruineerde stukken van de brug en stukken van de tempel. De speler hoort het geluid van de wind en het geluid van de voetstappen van de speler. De speler hoort ook het geluid van de vijanden die achter hem aan zitten.
 
 -Wat verandert er in score/timer/progressie: De speler krijgt punten voor elke seconde dat hij overleeft hoeveel seconde hij overleeft is de eindscore die de speler krijgt.
